@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/AddressBook_48.png</file>
+        <file>images/AudioPlayer_48.png</file>
+        <file>images/Butterfly_48.png</file>
+        <file>images/Camera_48.png</file>
+        <file>images/Concha_48.png</file>
+        <file>images/Cube_48.png</file>
+        <file>images/DateBook_48.png</file>
+        <file>images/EMail_48.png</file>
+        <file>images/Global_48.png</file>
+        <file>images/Pencil_48.png</file>
+        <file>images/Real_48.png</file>
+        <file>images/Search_48.png</file>
+        <file>images/Setting_48.png</file>
+        <file>images/TodoList_48.png</file>
+        <file>images/VideoPlayer_48.png</file>
+        <file>images/control.png</file>
+    </qresource>
+</RCC>

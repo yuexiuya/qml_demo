@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Project/main.qml</file>
+        <file>qml/Project/home.qml</file>
+        <file>qml/Project/uiPathView.qml</file>
+        <file>qml/Project/uiContainer.qml</file>
+        <file>qml/Project/uiControl.qml</file>
+    </qresource>
+</RCC>
